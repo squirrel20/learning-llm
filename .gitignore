@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Large external repos and model files
+03-llama-cpp/llama.cpp/
+models/*.gguf
+models/*.bin
