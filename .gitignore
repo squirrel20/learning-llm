@@ -9,7 +9,6 @@ wheels/
 # Virtual environments
 .venv
 
-# Large external repos and model files
-03-llama-cpp/llama.cpp/
+# Model files
 models/*.gguf
 models/*.bin
