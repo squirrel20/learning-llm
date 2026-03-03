@@ -1,3 +1,6 @@
 [submodule "03-llama-cpp/llama.cpp"]
 	path = 03-llama-cpp/llama.cpp
 	url = https://github.com/ggerganov/llama.cpp
+[submodule "books/Hands-On-Large-Language-Models"]
+	path = books/Hands-On-Large-Language-Models
+	url = https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
