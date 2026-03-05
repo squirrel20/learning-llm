@@ -1,0 +1,1 @@
+- 运行 python 代码时使用 `uv python` 而不是 `python`
