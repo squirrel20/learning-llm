@@ -12,7 +12,7 @@
 ├── prepare_corpus.py         # 语料下载脚本
 └── data/
     ├── corpus.txt            # 训练语料（中英混合，~1.3MB）
-    └── bpe_model.json        # 训练好的模型文件
+    └── bpe_model.json        # 训练好的 BPE 模型文件
 ```
 
 ## 快速开始
